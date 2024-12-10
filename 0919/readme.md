@@ -88,6 +88,7 @@ int main() {
 }
 ```
 - 카드 섞기(1)
+
 ![image](https://github.com/user-attachments/assets/71b1f8df-9ba6-4f92-9b97-5ca93470e160)
 
 ```
@@ -105,6 +106,7 @@ void shuffle_card(trump m_card[]){
 }
 ```
 - 카드 섞기(2)
+
 ![image](https://github.com/user-attachments/assets/d4776ff0-f9e5-4c0b-9c43-ee895e391c8a)
 ```
 void shuffle_card(trump m_card[]){
